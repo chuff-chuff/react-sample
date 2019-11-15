@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>React完全に理解した</p>
       </header>
     </div>
   );
